@@ -1,0 +1,1 @@
+<img src="{{ $image_url }}" class="img-fluid {{ $class ?? '' }}" style="{!! $style ?? '' !!}" {!! $extra ?? '' !!} />
